@@ -1,1 +1,1 @@
-# TxtAdventureGame_Final
+This repo is a text-based adventure game in C++ where players explore various rooms in a fantasy setting, encounter monsters, and engage in combat. The game involves choosing different rooms, navigating through obstacles, and fighting enemies to earn stars and escape the castle.
